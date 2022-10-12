@@ -41,7 +41,5 @@
             .
         </table>
 
-        </table>
-
     </body>
 </html>
